@@ -6,7 +6,7 @@
 <img src="https://media.discordapp.net/stickers/975669250175930392.webp?size=80" alt="img" />
 </h1>
 <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/394381268965654530/1074179431167434822/ezgif-3-4b9d09d96a.gif?width=330&height=312" width="500"/>
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> <img src="https://media.discordapp.net/stickers/975669164884770836.webp?size=80" width="20"/> About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning React and React Native for Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
