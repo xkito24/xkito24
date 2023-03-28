@@ -6,15 +6,9 @@
 <img src="https://media.discordapp.net/stickers/975669250175930392.webp?size=80" alt="img" />
 </h1>
 <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/394381268965654530/1074179431167434822/ezgif-3-4b9d09d96a.gif?width=330&height=312" width="500"/>
-<h3> <img src="https://media.discordapp.net/stickers/975669164884770836.webp?size=80" width="20"/> About Me </h3>
+<h3> <img src="https://media.discordapp.net/stickers/975669164884770836.webp?size=80" width="30" alt="img"/> => About Me  <img src="https://media.discordapp.net/stickers/975670239939428352.webp?size=80" width="30" alt="img"/> </h3>
+-<img src="https://media.discordapp.net/stickers/975669312658473010.webp?size=80" alt="img" width="30"/> Game and Application Developer
 
-- 🔭 &nbsp; I’m currently learning React and React Native for Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; full-stack developer and Data Science.
-- 🌱 &nbsp; Enthusiast in full-Stack and Artificial Intelligence .
-- ✍️ &nbsp; Watching universe and trying out latest design trends as hobbies/side hustles.
-- 😴 &nbsp; I belive, a perfect nap can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
