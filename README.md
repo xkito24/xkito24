@@ -1,5 +1,5 @@
 <h1 > <img src="https://gametora.com/images/umamusume/trainer_titles/honor_103304.png" alt="img" />
-   || W E L C O M E - T O  - S E G S - H Q ||
+   |W E L C O M E - T O  - S E G S - H Q|
     <img src="https://gametora.com/images/umamusume/trainer_titles/honor_103305.png" alt="img" />
 </h1>
 
