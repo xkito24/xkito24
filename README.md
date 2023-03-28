@@ -7,17 +7,16 @@
 </h1>
 <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/394381268965654530/1074179431167434822/ezgif-3-4b9d09d96a.gif?width=330&height=312" width="500"/>
 <h3> <img src="https://media.discordapp.net/stickers/975669164884770836.webp?size=80" width="30" alt="img"/> => About Me  <img src="https://media.discordapp.net/stickers/975670239939428352.webp?size=80" width="30" alt="img"/> </h3>
--&nbsp;  Game and Application Developer
+-🌐 &nbsp;  Game and Application Developer
+-💻 &nbsp;  Unity | C# | C++ | Java | SQL 
+-🔧 &nbsp;  Visual Studio code | Git
 
 
-<h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | JavaScript | React | C++ |MERN  
-- 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap | Sass | Tailwind 
-- 🛢 &nbsp; MySQL | Firebase | Postman
-- 🔧 &nbsp; Google Collab | Jupyter | Visual Studio code  | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
+<h3><img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b9/MasterMission_Button_1.png" alt="img"/ width="30"> Working Project <img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8c/MasterMission_Button_2.png" alt="img"/ width="30"> </h3>
 
+
+-🛢 &nbsp;  I'm looking for Unity developer :) 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xkito24&theme=neon&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
