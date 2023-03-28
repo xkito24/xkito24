@@ -1,4 +1,6 @@
-<h1 size="6"> <img src="https://gametora.com/images/umamusume/icons/urara_jewel.png" alt="img" width="50" /> /> W E L C O M E - T O  - S E G S - H Q <img src="https://gametora.com/images/umamusume/header_umas/2_hover.png" alt "img" width ="50" />  </h1>
+<h1 > <img src="https://gametora.com/images/umamusume/icons/urara_jewel.png" alt="img" width="50" />   <font size="24">
+    
+   {|| W E L C O M E - T O  - S E G S - H Q ||} </font> <img src="https://gametora.com/images/umamusume/header_umas/2_hover.png" alt "img" width ="50" />  </h1>
 <h2> A Passionate Software Developer Fr </h2>
 <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/394381268965654530/1074179431167434822/ezgif-3-4b9d09d96a.gif?width=330&height=312" width="500"/>
 <h3> 👨🏻‍💻 About Me </h3>
