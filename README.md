@@ -8,15 +8,18 @@
 <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/394381268965654530/1074179431167434822/ezgif-3-4b9d09d96a.gif?width=330&height=312" width="400"/>
 <h3> <img src="https://media.discordapp.net/stickers/975669164884770836.webp?size=20" width="20" alt="img"/> => About Me  <img src="https://media.discordapp.net/stickers/975670239939428352.webp?size=20" width="20" alt="img"/> </h3>
 <div><img src="https://media.discordapp.net/stickers/975669312658473010.webp?size=80" alt="img" width="30"/> &nbsp;  Game and Application Developer <div/>
-<div> -💻 &nbsp;  Unity | C# | C++ | Java | SQL <div/>
-<div> -🔧 &nbsp;  Visual Studio code | Git <div/>
-
-
+<div> <img src="https://media.discordapp.net/stickers/975670452397682758.webp?size=80" alt="img" width="30"/> &nbsp;  Unity | C# | C++ | Java | SQL <div/>
+<div>  <img src="https://media.discordapp.net/stickers/999491777511817278.webp?size=80" alt="img" width="30"/> &nbsp;  Visual Studio code | Git <div/>
+<div>  <img src="https://media.discordapp.net/stickers/975670300203180102.webp?size=80" alt="img" width="30"/> &nbsp;  I'm looking for Unity Developer for my project <div/>
+<div>  <img src="https://media.discordapp.net/stickers/975670300203180102.webp?size=80" alt="img" width="30"/> 
+   Contract me: www.facebook.com/ConVybayACC/ 
+    <img src="https://media.discordapp.net/stickers/975670300203180102.webp?size=80" alt="img" width="30"/> 
+   <div/>
 
 <h2><img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b9/MasterMission_Button_1.png" alt="img"/ width="30"> Working Project <img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8c/MasterMission_Button_2.png" alt="img"/ width="30"> </h2>
 
 
--🛢 &nbsp;  I'm looking for Unity developer :) 
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xkito24&theme=neon&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
