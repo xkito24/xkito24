@@ -7,8 +7,8 @@
 </h1>
 <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/394381268965654530/1074179431167434822/ezgif-3-4b9d09d96a.gif?width=330&height=312" width="400"/>
 <h3> <img src="https://media.discordapp.net/stickers/975669164884770836.webp?size=20" width="20" alt="img"/> => About Me  <img src="https://media.discordapp.net/stickers/975670239939428352.webp?size=20" width="20" alt="img"/> </h3>
--🌐 &nbsp;  Game and Application Developer
--💻 &nbsp;  Unity | C# | C++ | Java | SQL 
+<div>-🌐 &nbsp;  Game and Application Developer <div/>
+<div> -💻 &nbsp;  Unity | C# | C++ | Java | SQL <div/>
 -🔧 &nbsp;  Visual Studio code | Git
 
 
