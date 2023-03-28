@@ -7,7 +7,7 @@
 </h1>
 <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/394381268965654530/1074179431167434822/ezgif-3-4b9d09d96a.gif?width=330&height=312" width="500"/>
 <h3> <img src="https://media.discordapp.net/stickers/975669164884770836.webp?size=80" width="30" alt="img"/> => About Me  <img src="https://media.discordapp.net/stickers/975670239939428352.webp?size=80" width="30" alt="img"/> </h3>
--<img src="https://media.discordapp.net/stickers/975669312658473010.webp?size=80" alt="img" width="30"/> Game and Application Developer
+<img src="https://media.discordapp.net/stickers/975669312658473010.webp?size=80" alt="img" width="30"/> -&nbsp; Game and Application Developer
 
 
 <h3>🛠 Tech Stack</h3>
