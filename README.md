@@ -1,7 +1,7 @@
 <h1 ><img src="https://gametora.com/images/umamusume/trainer_titles/honor_103304.png" alt="img" width="200" />WELLCOME-TO-SEGS-HQ<img src="https://gametora.com/images/umamusume/trainer_titles/honor_103305.png" alt="img"  width="200"  />
 </h1>
 
-<h1>  <img src="https://gametora.com/images/umamusume/trainer_titles/honor_103304.png" alt="img" />
+<h1>  <img src="https://media.discordapp.net/stickers/975666684134297620.webp?size=80"  alt="img" />
    Single Devlayer Studio 
 <img src="https://gametora.com/images/umamusume/trainer_titles/honor_103305.png" alt="img" />
 </h1>
