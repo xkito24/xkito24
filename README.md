@@ -7,7 +7,7 @@
 </h1>
 <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/394381268965654530/1074179431167434822/ezgif-3-4b9d09d96a.gif?width=330&height=312" width="500"/>
 <h3> <img src="https://media.discordapp.net/stickers/975669164884770836.webp?size=80" width="30" alt="img"/> => About Me  <img src="https://media.discordapp.net/stickers/975670239939428352.webp?size=80" width="30" alt="img"/> </h3>
--&nbsp; <img src="https://media.discordapp.net/stickers/975669312658473010.webp?size=80" alt="img" width="30">  Game and Application Developer <img/>
+-&nbsp;  Game and Application Developer
 
 
 <h3>🛠 Tech Stack</h3>
@@ -19,7 +19,7 @@
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumawatlalit912&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xkito24&theme=neon&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
 <br>
 
