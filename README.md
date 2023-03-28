@@ -1,4 +1,4 @@
-<h1 ><img src="https://gametora.com/images/umamusume/trainer_titles/honor_103304.png" alt="img" width="50" />WELLCOME-TO-SEGS-HQ<img src="https://gametora.com/images/umamusume/trainer_titles/honor_103305.png" alt="img"  width="50"  />
+<h1 ><img src="https://gametora.com/images/umamusume/trainer_titles/honor_103304.png" alt="img" width="100" />WELLCOME-TO-SEGS-HQ<img src="https://gametora.com/images/umamusume/trainer_titles/honor_103305.png" alt="img"  width="100"  />
 </h1>
 
 <h1>  <img src="https://gametora.com/images/umamusume/trainer_titles/honor_103304.png" alt="img" />
