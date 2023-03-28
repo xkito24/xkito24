@@ -20,6 +20,7 @@
 
   <div>  <img src="https://media.discordapp.net/stickers/975670519644962838.webp?size=80" alt="img" width="30"/> &nbsp;  Unity || 2D || Pixel || Apocalypse || Near Future    
      <div/>
+     <div> This is Graduate Project and i have 2 years to finish it <div/>
      
 <h3 align="center">  <img src="https://media.discordapp.net/stickers/975670675912159263.webp?size=80" alt="img" width="35"/> ----------------- Update Log -----------------  <img src="https://media.discordapp.net/stickers/975670675912159263.webp?size=80" alt="img" width="35"/> <h3/>
    
