@@ -1,6 +1,5 @@
 <h1 > <img src="https://gametora.com/images/umamusume/icons/urara_jewel.png" alt="img" width="50" />  
-    
-   {|| W E L C O M E - T O  - S E G S - H Q ||}  
+   || W E L C O M E - T O  - S E G S - H Q ||
     <img src="https://gametora.com/images/umamusume/header_umas/2_hover.png" alt "img" width ="50" />  
 </h1>
 
