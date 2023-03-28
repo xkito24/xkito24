@@ -1,4 +1,4 @@
-<h1> <img src="https://gametora.com/images/umamusume/header_umas/2_hover.png" alt="img" width="5" /> /> W E L C O M E - T O  - S E G S - H Q  </h1>
+<h1> <img src="https://gametora.com/images/umamusume/header_umas/2_hover.png" alt="img" width="20" /> /> W E L C O M E - T O  - S E G S - H Q  </h1>
 <h2> A Passionate Software Developer Fr </h2>
 <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/394381268965654530/1074179431167434822/ezgif-3-4b9d09d96a.gif?width=330&height=312" width="500"/>
 <h3> 👨🏻‍💻 About Me </h3>
