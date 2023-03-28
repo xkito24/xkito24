@@ -1,9 +1,9 @@
-<h1 > <img src="https://gametora.com/images/umamusume/gacha/img_bnr_gacha_30057.png" alt="img" />
+<h1 ><img src="https://gametora.com/images/umamusume/trainer_titles/honor_103304.png" alt="img" />
    |WELLCOME-TO-SEGS-HQ|
-    <img src="https://gametora.com/images/umamusume/gacha/img_bnr_gacha_30020.png" alt="img" />
+    <img src="https://gametora.com/images/umamusume/trainer_titles/honor_103305.png" alt="img" />
 </h1>
 
-<h1>  <img src="https://gametora.com/images/umamusume/gacha/img_bnr_gacha_30057.png" alt="img" />
+<h1>  <img src="https://gametora.com/images/umamusume/trainer_titles/honor_103304.png" alt="img" />
    Single Devlayer Studio 
 <img src="https://gametora.com/images/umamusume/trainer_titles/honor_103305.png" alt="img" />
 </h1>
