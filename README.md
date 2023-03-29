@@ -1,7 +1,7 @@
 
 <h1 ><img src="https://gametora.com/images/umamusume/trainer_titles/honor_103304.png" alt="img" width="200" />WELLCOME-TO-SEGS-HQ<img src="https://gametora.com/images/umamusume/trainer_titles/honor_103305.png" alt="img"  width="200"  />
 </h1>
-<h1> <img src="https://im.ezgif.com/tmp/ezgif-1-1e4965e9ad.gif" alt="img" />
+<h1> <img src="https://im.ezgif.com/tmp/ezgif-1-1e4965e9ad.gif" alt="img" /> </h1>
 <h1 align="center">  <img src="https://media.discordapp.net/stickers/975666684134297620.webp?size=80"  alt="img" />
    Single Devlayer Studio 
 <img src="https://media.discordapp.net/stickers/975669250175930392.webp?size=80" alt="img" />
@@ -21,7 +21,7 @@
      <div> This is Graduate Project and i have 2 years to finish it <div/>
      
 <h3 align="center">  <img src="https://media.discordapp.net/stickers/975670675912159263.webp?size=80" alt="img" width="35"/> ----------------- Update Log -----------------  <img src="https://media.discordapp.net/stickers/975670675912159263.webp?size=80" alt="img" width="35"/> <h3/>
-   
+<h1> <img src="https://im4.ezgif.com/tmp/ezgif-4-30e39d0712.gif" alt="img" /> </h1>   
 
 
 
