@@ -28,11 +28,11 @@
 
 
    
-<h3 align="center">    ----------------- Stats ----------------- <h3>
+<h3 align="center"> <img src="https://media.discordapp.net/stickers/975670675912159263.webp?size=80" alt="img" width="35"/>   ----------------- Stats ----------------- <img src="https://media.discordapp.net/stickers/975670675912159263.webp?size=80" alt="img" width="35"/> <h3>
   <h3 align="center"> <img src="https://im3.ezgif.com/tmp/ezgif-3-c6b3874882.gif" alt="gif" /> <h3/>
      
      
-     <img align="right"  src="https://media.discordapp.net/attachments/394381268965654530/1074179433117794354/ezgif-3-987b835690.gif?width=352&height=352" width="300"/>
+   
      
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xkito24&theme=neon&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
