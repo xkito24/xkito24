@@ -12,10 +12,7 @@
 <div> <img src="https://media.discordapp.net/stickers/975670452397682758.webp?size=80" alt="img" width="30"/> &nbsp;  Unity | C# | C++ | Java | SQL <div/>
 <div>  <img src="https://media.discordapp.net/stickers/999491777511817278.webp?size=80" alt="img" width="30"/> &nbsp;  Visual Studio code | Git <div/>
 <div>  <img src="https://media.discordapp.net/stickers/975670300203180102.webp?size=80" alt="img" width="30"/> &nbsp;  I'm looking for Unity Developer for my project <div/>
-<div>  <img src="https://media.discordapp.net/stickers/975671048425054218.webp?size=80" alt="img" width="30"/> 
-   Contract me: www.facebook.com/ConVybayACC/ 
 
-   <div/>
 
 <h1 align="center"><img src="https://static.wikia.nocookie.net/fategrandorder/images/b/b9/MasterMission_Button_1.png" alt="img"/ width="30"> Working Project <img src="https://static.wikia.nocookie.net/fategrandorder/images/8/8c/MasterMission_Button_2.png" alt="img"/ width="30"> </h1>
 
@@ -46,10 +43,9 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/mrlalitkumawat1" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/kumawatlalit007/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/kumawatlalit007/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:kumawatlalit912@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://steamcommunity.com/id/abc123abcabc/" target="_blank" rel="noopener noreferrer"><img src="https://th.bing.com/th/id/R.93a4a65e7693d8b1739c9fb203089801?rik=0SXpP4ELODKVDw&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f05%2fSteam_icon_logo_logotype.png&ehk=Ya5ZQkkpV3rYH47HN9szTQIGNfhSUD5XF9CKYLZtQzc%3d&risl=&pid=ImgRaw&r=0" width="50" /></a>  
+&nbsp; <a href="https://www.facebook.com/ConVybayACC/" target="_blank" rel="noopener noreferrer"><img src="https://th.bing.com/th/id/R.24b3e22f73d6957bce3abdb0968990cb?rik=VZb20S6CtzvQog&riu=http%3a%2f%2f4.bp.blogspot.com%2f-Rm3giw7mj_8%2fVQLP1ZWAVwI%2fAAAAAAAAXw0%2fWPoJhWJu_aY%2fs1600%2ffacebook-iOS-icon.png&ehk=BuqxeNZJaZRBVpO%2fxgkZuT8cWrMJYhILEmBh5U8WnaM%3d&risl=&pid=ImgRaw&r=0" width="50" /></a>
+&nbsp; <a href="mailto:hkscxd20@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [kumawatlalit912](https://github.com/kumawatlalit912)
+
