@@ -1,3 +1,4 @@
+<h1> <img src="https://im.ezgif.com/tmp/ezgif-1-1e4965e9ad.gif" alt="img" />
 <h1 ><img src="https://gametora.com/images/umamusume/trainer_titles/honor_103304.png" alt="img" width="200" />WELLCOME-TO-SEGS-HQ<img src="https://gametora.com/images/umamusume/trainer_titles/honor_103305.png" alt="img"  width="200"  />
 </h1>
 
