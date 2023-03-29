@@ -20,11 +20,16 @@
      <div/>
      <div> This is Graduate Project and i have 2 years to finish it <div/>
      
+        
+        
 <h3 align="center">  <img src="https://media.discordapp.net/stickers/975670675912159263.webp?size=80" alt="img" width="35"/> ----------------- Update Log -----------------  <img src="https://media.discordapp.net/stickers/975670675912159263.webp?size=80" alt="img" width="35"/> <h3/>
-<h1> <img src="https://im4.ezgif.com/tmp/ezgif-4-30e39d0712.gif" alt="img" /> </h1>   
+<h1> <img src="https://im4.ezgif.com/tmp/ezgif-4-30e39d0712.gif" alt="img" align="center" /> </h1>   
 
 
 
+   
+<h3 align="center">    ----------------- Stats ----------------- <h3>
+   <img src="https://im3.ezgif.com/tmp/ezgif-3-c6b3874882.gif" alt="gif" />
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xkito24&theme=neon&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
 <br>
@@ -40,7 +45,7 @@
 
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Contract Me </h3>
 
 <p align="center">
 &nbsp; <a href="https://steamcommunity.com/id/abc123abcabc/" target="_blank" rel="noopener noreferrer"><img src="https://th.bing.com/th/id/R.93a4a65e7693d8b1739c9fb203089801?rik=0SXpP4ELODKVDw&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f05%2fSteam_icon_logo_logotype.png&ehk=Ya5ZQkkpV3rYH47HN9szTQIGNfhSUD5XF9CKYLZtQzc%3d&risl=&pid=ImgRaw&r=0" width="50" /></a>  
