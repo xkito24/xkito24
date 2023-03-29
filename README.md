@@ -9,8 +9,8 @@
 <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/394381268965654530/1074179431167434822/ezgif-3-4b9d09d96a.gif?width=330&height=312" width="350"/>
 <h3> <img src="https://media.discordapp.net/stickers/975669164884770836.webp?size=20" width="20" alt="img"/> => About Me  <img src="https://media.discordapp.net/stickers/975670239939428352.webp?size=20" width="20" alt="img"/> </h3>
 <div><img src="https://media.discordapp.net/stickers/975669312658473010.webp?size=80" alt="img" width="30"/> &nbsp;  Game and Application Developer <div/>
-<div> <img src="https://media.discordapp.net/stickers/975670452397682758.webp?size=80" alt="img" width="30"/> &nbsp;  Unity | C# | C++ | Java | SQL <div/>
-<div>  <img src="https://media.discordapp.net/stickers/999491777511817278.webp?size=80" alt="img" width="30"/> &nbsp;  Visual Studio code | Git <div/>
+<div> <img src="https://media.discordapp.net/stickers/975670452397682758.webp?size=80" alt="img" width="30"/> &nbsp;  C | C# | C++ | Java | SQL | JS <div/>
+<div>  <img src="https://media.discordapp.net/stickers/999491777511817278.webp?size=80" alt="img" width="30"/> &nbsp;  Visual Studio code | Git | Unity | NetBean <div/>
 <div>  <img src="https://media.discordapp.net/stickers/975670300203180102.webp?size=80" alt="img" width="30"/> &nbsp;  I'm looking for Unity Developer for my project <div/>
 
 
