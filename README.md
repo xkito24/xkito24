@@ -24,10 +24,9 @@
         
 <h3 align="center">  <img src="https://media.discordapp.net/stickers/975670675912159263.webp?size=80" alt="img" width="35"/> ----------------- Update Log -----------------  <img src="https://media.discordapp.net/stickers/975670675912159263.webp?size=80" alt="img" width="35"/> <h3/>
 <h1 align="center"> <img src="https://im4.ezgif.com/tmp/ezgif-4-30e39d0712.gif" alt="img"   /> </h1>   
-   <h4> Week 1
-<div><img src="https://media.discordapp.net/stickers/975669312658473010.webp?size=80" alt="img" width="30"/> Working in dummy sprite, some basic movement   </div>
-      <div> working in some advance movement </div>
-   </h4>
+   <h4> Week 1 -----------
+<div><img src="https://media.discordapp.net/stickers/975669312658473010.webp?size=80" alt="img" width="30"/> Working in dummy sprite, some basic movement, testing advance movement   </div>
+      <h4 align="center"> ====Demo will update soon (below this line)==== </h4>
    
 <h3 align="center"> <img src="https://media.discordapp.net/stickers/975670675912159263.webp?size=80" alt="img" width="35"/>   ----------------- Stats ----------------- <img src="https://media.discordapp.net/stickers/975670675912159263.webp?size=80" alt="img" width="35"/> <h3>
   <h3 align="center"> <img src="https://im3.ezgif.com/tmp/ezgif-3-c6b3874882.gif" alt="gif" /> <h3/>
