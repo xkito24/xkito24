@@ -23,13 +23,15 @@
         
         
 <h3 align="center">  <img src="https://media.discordapp.net/stickers/975670675912159263.webp?size=80" alt="img" width="35"/> ----------------- Update Log -----------------  <img src="https://media.discordapp.net/stickers/975670675912159263.webp?size=80" alt="img" width="35"/> <h3/>
-<h1> <img src="https://im4.ezgif.com/tmp/ezgif-4-30e39d0712.gif" alt="img" align="center" /> </h1>   
+<h1 align="center"> <img src="https://im4.ezgif.com/tmp/ezgif-4-30e39d0712.gif" alt="img"   /> </h1>   
 
 
 
    
 <h3 align="center">    ----------------- Stats ----------------- <h3>
-   <img src="https://im3.ezgif.com/tmp/ezgif-3-c6b3874882.gif" alt="gif" />
+  <h3 align="center"> <img src="https://im3.ezgif.com/tmp/ezgif-3-c6b3874882.gif" alt="gif" /> <h3/>
+     
+     
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xkito24&theme=neon&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
 <br>
