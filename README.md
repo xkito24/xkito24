@@ -34,11 +34,11 @@
      
      
    
-  <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/394381268965654530/1074179431167434822/ezgif-3-4b9d09d96a.gif?width=330&height=312" width="350"/>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xkito24&theme=neon&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
-
-
+<img align="right" alt="GIF" src="https://media.discordapp.net/attachments/394381268965654530/1074179431167434822/ezgif-3-4b9d09d96a.gif?width=330&height=312" width="350"/>
+<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xkito24&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="lalit's Github Stats">
 
 </br>
