@@ -32,7 +32,7 @@
 <h3 align="center"> <img src="https://media.discordapp.net/stickers/975670675912159263.webp?size=80" alt="img" width="35"/>   ----------------- Stats ----------------- <img src="https://media.discordapp.net/stickers/975670675912159263.webp?size=80" alt="img" width="35"/> <h3>
   <h3 align="center"> <img src="https://media.discordapp.net/attachments/895341397731835944/1090878306074759208/ezgif-3-c6b3874882.gif?width=660&height=286" alt="gif" /> <h3/>
      
-  <h3> <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/394381268965654530/1074179433419776010/ezgif-3-5768f99c94.gif?width=324&height=325" width="250"/>  <h3/>
+  <h3> <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/394381268965654530/1074179433419776010/ezgif-3-5768f99c94.gif?width=324&height=325" width="200"/>  <h3/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xkito24&theme=neon&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
