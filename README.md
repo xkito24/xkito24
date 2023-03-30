@@ -49,6 +49,8 @@
 
 <h3 align="center">----------------- Most used language ----------------- <h3/>
 
+     <h3> <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/394381268965654530/1074180101341724743/ezgif-3-32e725bfe1.gif?width=352&height=268" width="200"/>  <h3/>
+   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xkito24&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/xkito24/github-readme-stats)
 
 
