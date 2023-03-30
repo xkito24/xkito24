@@ -1,7 +1,7 @@
 
 <h1 ><img src="https://gametora.com/images/umamusume/trainer_titles/honor_103304.png" alt="img" width="200" />WELLCOME-TO-SEGS-HQ<img src="https://gametora.com/images/umamusume/trainer_titles/honor_103305.png" alt="img"  width="200"  />
 </h1>
-<h1> <img src="https://im.ezgif.com/tmp/ezgif-1-1e4965e9ad.gif" alt="img" /> </h1>
+<h1> <img src="https://media.discordapp.net/attachments/895341397731835944/1090878306456436736/ezgif-4-1f2f39f34c.gif?width=660&height=267" alt="img" /> </h1>
 <h1 align="center">  <img src="https://media.discordapp.net/stickers/975666684134297620.webp?size=80"  alt="img" />
    Single Devlayer Studio 
 <img src="https://media.discordapp.net/stickers/975669250175930392.webp?size=80" alt="img" />
@@ -23,14 +23,14 @@
         
         
 <h3 align="center">  <img src="https://media.discordapp.net/stickers/975670675912159263.webp?size=80" alt="img" width="35"/> ----------------- Update Log -----------------  <img src="https://media.discordapp.net/stickers/975670675912159263.webp?size=80" alt="img" width="35"/> <h3/>
-<h1 align="center"> <img src="https://im4.ezgif.com/tmp/ezgif-4-30e39d0712.gif" alt="img"   /> </h1>   
+<h1 align="center"> <img src="https://media.discordapp.net/attachments/895341397731835944/1090878305600811039/ezgif-4-df37f0a028.gif?width=660&height=282" alt="img"   /> </h1>   
    <h4> Week 1 -----------
 <div><img src="https://media.discordapp.net/stickers/975669312658473010.webp?size=80" alt="img" width="30"/> Working in dummy sprite, some basic movement, testing advance movement   </div>
       <h4 align="center"> ====Demo will update soon (below this line)==== </h4>
       <div> first demo 04/06/2023(mm/dd/yyyy) </div>
    
 <h3 align="center"> <img src="https://media.discordapp.net/stickers/975670675912159263.webp?size=80" alt="img" width="35"/>   ----------------- Stats ----------------- <img src="https://media.discordapp.net/stickers/975670675912159263.webp?size=80" alt="img" width="35"/> <h3>
-  <h3 align="center"> <img src="https://im3.ezgif.com/tmp/ezgif-3-c6b3874882.gif" alt="gif" /> <h3/>
+  <h3 align="center"> <img src="https://media.discordapp.net/attachments/895341397731835944/1090878306074759208/ezgif-3-c6b3874882.gif?width=660&height=286" alt="gif" /> <h3/>
      
      
    
