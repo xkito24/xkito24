@@ -23,14 +23,14 @@
         
         
 <h3 align="center">  <img src="https://media.discordapp.net/stickers/975670675912159263.webp?size=80" alt="img" width="35"/> ----------------- Update Log -----------------  <img src="https://media.discordapp.net/stickers/975670675912159263.webp?size=80" alt="img" width="35"/> <h3/>
-<h1 align="center"> <img src="https://media.discordapp.net/attachments/895341397731835944/1090878305600811039/ezgif-4-df37f0a028.gif?width=660&height=282" alt="img"   /> </h1>   
+<h1 align="center"> <img src="https://media.discordapp.net/attachments/895341397731835944/1090878305600811039/ezgif-4-df37f0a028.gif?width=660&height=282" alt="img"  width="1300"   /> </h1>   
    <h4> Week 1 -----------
 <div><img src="https://media.discordapp.net/stickers/975669312658473010.webp?size=80" alt="img" width="30"/> Working in dummy sprite, some basic movement, testing advance movement   </div>
       <h4 align="center"> ====Demo will update soon (below this line)==== </h4>
       <div> first demo 04/06/2023(mm/dd/yyyy) </div>
    
 <h3 align="center"> <img src="https://media.discordapp.net/stickers/975668912270225418.webp?size=96" alt="img" width="35"/>   ----------------- Stats ----------------- <img src="https://media.discordapp.net/stickers/975668912270225418.webp?size=96" alt="img" width="35"/> <h3>
-  <h3 align="center"> <img src="https://media.discordapp.net/attachments/895341397731835944/1090878306074759208/ezgif-3-c6b3874882.gif?width=660&height=286" alt="gif" /> <h3/>
+  <h3 align="center"> <img src="https://media.discordapp.net/attachments/895341397731835944/1090878306074759208/ezgif-3-c6b3874882.gif?width=660&height=286" alt="gif"  width="1300" /> <h3/>
       <h3 align="center"><img src="https://media.discordapp.net/stickers/975669065945325648.webp?size=96" alt="img" width="35"/> ----------------- Contribution -----------------<img src="https://media.discordapp.net/stickers/975669065945325648.webp?size=96" alt="img" width="35"/>  <h3/>
   <h3> <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/394381268965654530/1074179433419776010/ezgif-3-5768f99c94.gif?width=324&height=325" width="200"/>  <h3/>
      
