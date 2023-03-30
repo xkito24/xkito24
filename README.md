@@ -37,8 +37,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xkito24&theme=neon&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
-     <h3 align="center">----------------- Stats ----------------- <h3/>
+   
 <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/394381268965654530/1074179433117794354/ezgif-3-987b835690.gif?width=325&height=325" width="250"/>
+       <h3 align="center">----------------- Stats ----------------- <h3/>
 <br>
         
         
