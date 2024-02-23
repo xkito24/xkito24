@@ -3,7 +3,7 @@
 </h1>
 <h1 align="center" > <img src="https://media.discordapp.net/attachments/895341397731835944/1090878306456436736/ezgif-4-1f2f39f34c.gif?width=660&height=267" alt="img"  width="1300" /> </h1>
 <h1 align="center">  <img src="https://media.discordapp.net/stickers/975666684134297620.webp?size=80"  alt="img" />
-   Single Devlayer Studio 
+   Game Developer
 <img src="https://media.discordapp.net/stickers/975669250175930392.webp?size=80" alt="img" />
 </h1>
 <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/394381268965654530/1074179431167434822/ezgif-3-4b9d09d96a.gif?width=330&height=312" width="350"/>
